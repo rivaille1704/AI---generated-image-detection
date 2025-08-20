@@ -37,6 +37,5 @@ This project aims to build a system that can **automatically distinguish real im
 - Extend dataset with more AI-generated sources (MidJourney, DALL·E, etc.).  
 - Explore **Transformer-based** and **Vision-Attention** models.  
 - Build a **web demo** where users can upload images and get instant predictions.  
-- Combine image detection with **metadata analysis** for multi-level fake detection.  
-- Optimize the model for **mobile deployment** to detect fakes on the go.
+- Combine image detection with **metadata analysis** for multi-level fake detection.
 
